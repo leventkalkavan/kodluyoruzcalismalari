@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\deneme.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\deneme.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\deneme.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\deneme\bin\Debug\net6.0\deneme.exe
+C:\Users\Lenovo\Desktop\deneme\bin\Debug\net6.0\deneme.deps.json
+C:\Users\Lenovo\Desktop\deneme\bin\Debug\net6.0\deneme.runtimeconfig.json
+C:\Users\Lenovo\Desktop\deneme\bin\Debug\net6.0\deneme.dll
+C:\Users\Lenovo\Desktop\deneme\bin\Debug\net6.0\ref\deneme.dll
+C:\Users\Lenovo\Desktop\deneme\bin\Debug\net6.0\deneme.pdb
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\deneme.dll
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\ref\deneme.dll
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\deneme.pdb
+C:\Users\Lenovo\Desktop\deneme\obj\Debug\net6.0\deneme.genruntimeconfig.cache
