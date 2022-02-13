@@ -1,7 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyasyı, bir adet de index.html barındırıyor.
-
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyasyı, bir adet de index.html barındırıyor. Net core patikasını tamamlarken yapılan ödevlerin dosyaları bulunuyor.
 
 
 ![kodluyoruz](https://i.hizliresim.com/95245bz.jpg)
