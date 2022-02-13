@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\diziler_array\bin\Debug\net6.0\diziler_array.exe
+C:\Users\Lenovo\Desktop\diziler_array\bin\Debug\net6.0\diziler_array.deps.json
+C:\Users\Lenovo\Desktop\diziler_array\bin\Debug\net6.0\diziler_array.runtimeconfig.json
+C:\Users\Lenovo\Desktop\diziler_array\bin\Debug\net6.0\diziler_array.dll
+C:\Users\Lenovo\Desktop\diziler_array\bin\Debug\net6.0\ref\diziler_array.dll
+C:\Users\Lenovo\Desktop\diziler_array\bin\Debug\net6.0\diziler_array.pdb
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\diziler_array.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\diziler_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\diziler_array.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\diziler_array.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\diziler_array.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\diziler_array.dll
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\ref\diziler_array.dll
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\diziler_array.pdb
+C:\Users\Lenovo\Desktop\diziler_array\obj\Debug\net6.0\diziler_array.genruntimeconfig.cache
