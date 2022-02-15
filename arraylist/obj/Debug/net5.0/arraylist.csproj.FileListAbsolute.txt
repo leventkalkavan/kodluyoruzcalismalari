@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\arraylist\bin\Debug\net5.0\arraylist.exe
+C:\Users\Lenovo\Desktop\arraylist\bin\Debug\net5.0\arraylist.deps.json
+C:\Users\Lenovo\Desktop\arraylist\bin\Debug\net5.0\arraylist.runtimeconfig.json
+C:\Users\Lenovo\Desktop\arraylist\bin\Debug\net5.0\arraylist.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\arraylist\bin\Debug\net5.0\arraylist.dll
+C:\Users\Lenovo\Desktop\arraylist\bin\Debug\net5.0\ref\arraylist.dll
+C:\Users\Lenovo\Desktop\arraylist\bin\Debug\net5.0\arraylist.pdb
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\arraylist.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\arraylist.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\arraylist.dll
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\ref\arraylist.dll
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\arraylist.pdb
+C:\Users\Lenovo\Desktop\arraylist\obj\Debug\net5.0\arraylist.genruntimeconfig.cache
