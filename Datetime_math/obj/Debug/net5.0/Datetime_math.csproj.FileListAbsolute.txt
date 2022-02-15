@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Datetime_math\bin\Debug\net5.0\Datetime_math.exe
+C:\Users\Lenovo\Desktop\Datetime_math\bin\Debug\net5.0\Datetime_math.deps.json
+C:\Users\Lenovo\Desktop\Datetime_math\bin\Debug\net5.0\Datetime_math.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Datetime_math\bin\Debug\net5.0\Datetime_math.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Datetime_math\bin\Debug\net5.0\Datetime_math.dll
+C:\Users\Lenovo\Desktop\Datetime_math\bin\Debug\net5.0\ref\Datetime_math.dll
+C:\Users\Lenovo\Desktop\Datetime_math\bin\Debug\net5.0\Datetime_math.pdb
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\Datetime_math.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\Datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\Datetime_math.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\Datetime_math.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\Datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\Datetime_math.dll
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\ref\Datetime_math.dll
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\Datetime_math.pdb
+C:\Users\Lenovo\Desktop\Datetime_math\obj\Debug\net5.0\Datetime_math.genruntimeconfig.cache
