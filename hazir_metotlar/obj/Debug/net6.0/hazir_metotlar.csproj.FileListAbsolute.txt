@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\hazir_metotlar\bin\Debug\net6.0\hazir_metotlar.exe
+C:\Users\Lenovo\Desktop\hazir_metotlar\bin\Debug\net6.0\hazir_metotlar.deps.json
+C:\Users\Lenovo\Desktop\hazir_metotlar\bin\Debug\net6.0\hazir_metotlar.runtimeconfig.json
+C:\Users\Lenovo\Desktop\hazir_metotlar\bin\Debug\net6.0\hazir_metotlar.dll
+C:\Users\Lenovo\Desktop\hazir_metotlar\bin\Debug\net6.0\ref\hazir_metotlar.dll
+C:\Users\Lenovo\Desktop\hazir_metotlar\bin\Debug\net6.0\hazir_metotlar.pdb
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\hazir_metotlar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\hazir_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\hazir_metotlar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\hazir_metotlar.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\hazir_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\hazir_metotlar.dll
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\ref\hazir_metotlar.dll
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\hazir_metotlar.pdb
+C:\Users\Lenovo\Desktop\hazir_metotlar\obj\Debug\net6.0\hazir_metotlar.genruntimeconfig.cache
