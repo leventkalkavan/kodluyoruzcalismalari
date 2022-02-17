@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\kurucumetotlar\bin\Debug\net5.0\kurucumetotlar.exe
+C:\Users\Lenovo\Desktop\kurucumetotlar\bin\Debug\net5.0\kurucumetotlar.deps.json
+C:\Users\Lenovo\Desktop\kurucumetotlar\bin\Debug\net5.0\kurucumetotlar.runtimeconfig.json
+C:\Users\Lenovo\Desktop\kurucumetotlar\bin\Debug\net5.0\kurucumetotlar.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\kurucumetotlar\bin\Debug\net5.0\kurucumetotlar.dll
+C:\Users\Lenovo\Desktop\kurucumetotlar\bin\Debug\net5.0\ref\kurucumetotlar.dll
+C:\Users\Lenovo\Desktop\kurucumetotlar\bin\Debug\net5.0\kurucumetotlar.pdb
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\kurucumetotlar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\kurucumetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\kurucumetotlar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\kurucumetotlar.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\kurucumetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\kurucumetotlar.dll
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\ref\kurucumetotlar.dll
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\kurucumetotlar.pdb
+C:\Users\Lenovo\Desktop\kurucumetotlar\obj\Debug\net5.0\kurucumetotlar.genruntimeconfig.cache
