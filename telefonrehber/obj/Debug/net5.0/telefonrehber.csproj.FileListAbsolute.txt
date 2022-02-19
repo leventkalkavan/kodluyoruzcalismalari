@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\telefonrehber\bin\Debug\net5.0\telefonrehber.exe
+C:\Users\Lenovo\Desktop\telefonrehber\bin\Debug\net5.0\telefonrehber.deps.json
+C:\Users\Lenovo\Desktop\telefonrehber\bin\Debug\net5.0\telefonrehber.runtimeconfig.json
+C:\Users\Lenovo\Desktop\telefonrehber\bin\Debug\net5.0\telefonrehber.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\telefonrehber\bin\Debug\net5.0\telefonrehber.dll
+C:\Users\Lenovo\Desktop\telefonrehber\bin\Debug\net5.0\ref\telefonrehber.dll
+C:\Users\Lenovo\Desktop\telefonrehber\bin\Debug\net5.0\telefonrehber.pdb
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\telefonrehber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\telefonrehber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\telefonrehber.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\telefonrehber.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\telefonrehber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\telefonrehber.dll
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\ref\telefonrehber.dll
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\telefonrehber.pdb
+C:\Users\Lenovo\Desktop\telefonrehber\obj\Debug\net5.0\telefonrehber.genruntimeconfig.cache
